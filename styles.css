@@ -44,3 +44,12 @@ td {
 input[type=number] {
     width: 6em;
 }
+#footer {
+color: #FFFFFF;
+background-color: #b7d1ff;
+border: 1px solid #A11204;
+float: left;
+clear: both;
+width: 100%;
+text-align: center;
+}
