@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+<meta charset = "UTF-8">
+<title>CS Standard Template</title>
+<link rel = "stylesheet"
+type = "text/css"
+href = "csStd.css" />
+</head>
+<body>
+<div id = "all">
+<!-- This div centers a fixed-width layout -->
+<div id = "heading">
+<h1>Heading</h1>
+</div><!-- end heading div -->
+<div id = "menu">
+menu
+<ul>
+<li><a href = "#">one</a></li>
+<li><a href = "#">two</a></li>
+<li><a href = "#">three</a></li>
+</ul>
+</div> <!-- end menu div -->
+<div class = "content">
+<h2>Content 1</h2>
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+</div> <!-- end content div -->
+<div class = "content">
+<h2>Content 2</h2>
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+One or more of these will contain content
+</div> <!-- end content div -->
+<div id = "footer">
+contact and footer info
+</div> <!-- end footer div -->
+</div> <!-- end all div -->
+</body>
+</html>
